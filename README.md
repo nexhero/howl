@@ -1,6 +1,10 @@
 # The Howl editor
 
-[![Build Status](https://travis-ci.org/howl-editor/howl.png?branch=master)](https://travis-ci.org/howl-editor/howl)
+## NOTE
+
+It's been a while since the master branch has been updated. There is much more
+recent development in the `next` branch, which among other things uses Gtk-4. If
+you're interested in keeping up with the latest then check out that branch instead.
 
 ## What is it?
 
