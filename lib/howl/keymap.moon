@@ -56,6 +56,7 @@
     b:'switch-buffer'
     k:'buffer-close'
     '0':'view-close'
+    d:'project-file-search-list'
   }
     tab:               'editor-smart-tab'
     backspace:         'editor-delete-back'
